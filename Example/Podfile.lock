@@ -1,5 +1,5 @@
 PODS:
-  - JKSteppedProgressBar (0.5.1)
+  - JKSteppedProgressBar (0.5.2)
 
 DEPENDENCIES:
   - JKSteppedProgressBar (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JKSteppedProgressBar: b55bcac777c5b256375d6ae75cca93b75c5d8672
+  JKSteppedProgressBar: 48c8b96f4ad8e98e8a2b5549f1590a0ea12eacaf
 
 PODFILE CHECKSUM: ba934cd1a7deb75a79c480358beefa12dc74330d
 
-COCOAPODS: 1.7.4
+COCOAPODS: 1.10.0
